@@ -1,0 +1,826 @@
+{
+  "current": {
+    "color_text": "#260101",
+    "color_body_text": "#bf2604",
+    "color_sale_text": "#1878b9",
+    "color_button": "#bf2604",
+    "color_button_text": "#faf5f0",
+    "color_small_button_text_border": "rgba(0,0,0,0)",
+    "color_text_field_text": "#260101",
+    "color_text_field_border": "#faf5f0",
+    "color_text_field": "#faf5f0",
+    "color_image_overlay_text": "#faf5f0",
+    "color_image_overlay": "#260101",
+    "image_overlay_opacity": 0,
+    "color_borders": "rgba(0,0,0,0)",
+    "color_body_bg": "#faf5f0",
+    "type_header_font": "montserrat_n5",
+    "type_header_base_size": 21,
+    "type_base_font": "montserrat_n5",
+    "type_base_size": 15,
+    "share_twitter": false,
+    "social_facebook_link": "https:\/\/www.facebook.com\/GetNade",
+    "social_pinterest_link": "www.pinterest.com\/getnade",
+    "social_instagram_link": "https:\/\/www.instagram.com\/getnade\/?hl=en",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "align_logo": "left",
+          "logo": "shopify:\/\/shop_images\/logo_03fd1897-1c56-42a3-98c4-39fb19667627.png",
+          "logo_max_width": 115,
+          "main_linklist": "main-menu",
+          "message": true,
+          "home_page_only": true,
+          "message_text": "Free shipping on orders over $35",
+          "color_bg": "#260101",
+          "color_text": "#f2ae78"
+        }
+      },
+      "feature-row": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Quinoa.gif",
+          "layout": "left",
+          "title": "Meet the new kid on the shelf.",
+          "text": "<p>&#x27;Nade Original is more than a sauce: Dip, dunk, douse, or marinade your fish, chicken, meat, and veggies in it. <\/p><p>Use it as the base of your recipe, or finish off a dish with a drizzle.<\/p>",
+          "button_label": "SHOP NADE",
+          "button_link": "shopify:\/\/collections\/all"
+        }
+      },
+      "feature-columns": {
+        "type": "feature-columns",
+        "blocks": {
+          "feature-columns-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "THAI CHILI PEPPERS",
+              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+              "button_label": ""
+            }
+          },
+          "feature-columns-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "KOMBU",
+              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+              "button_label": ""
+            }
+          },
+          "feature-columns-2": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "APPLE CIDER VINEGAR",
+              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "feature-columns-0",
+          "feature-columns-1",
+          "feature-columns-2"
+        ],
+        "settings": {
+          "title": "what’s inside",
+          "align_text": "left"
+        }
+      },
+      "collection": {
+        "type": "collection",
+        "settings": {
+          "title": "Featured collection",
+          "collection": "",
+          "grid": 4,
+          "rows": 2,
+          "show_vendor": false,
+          "show_view_all": false
+        }
+      },
+      "hero-2": {
+        "type": "hero",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/darkred.png",
+          "alignment": "center",
+          "hero_layout": "full_width",
+          "hero_size": "x-small",
+          "text_size": "medium",
+          "title": "Spice up your meals with globally inspired, restaurant-quality sauces.",
+          "text": "",
+          "button_label": ""
+        }
+      },
+      "quotes": {
+        "type": "quotes",
+        "blocks": {
+          "quotes-0": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p><strong>It’s a damn good sauce, <br\/>it even tastes good <br\/>on pasta carbonara.<\/strong><\/p>",
+              "author": "Darryl @instahandle"
+            }
+          },
+          "quotes-1": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p><strong>It feels like I’m sitting on a boat on a river in Bangkok. It’s a little tangy, savory, and spicy.<\/strong><\/p>",
+              "author": "Brynna @instahandle"
+            }
+          },
+          "quotes-2": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p><strong>I could eat <br\/>this every day.<\/strong><\/p>",
+              "author": "Emmy @instahandle"
+            }
+          }
+        },
+        "block_order": [
+          "quotes-0",
+          "quotes-1",
+          "quotes-2"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "image-bar": {
+        "type": "image-bar",
+        "blocks": {
+          "image-bar-0": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "cta_label": ""
+            }
+          },
+          "image-bar-1": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "cta_label": ""
+            }
+          },
+          "image-bar-2": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "cta_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "image-bar-0",
+          "image-bar-1",
+          "image-bar-2"
+        ],
+        "settings": {
+          "section_height": "medium"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "title": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "footer-1": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Newsletter"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-1"
+        ],
+        "settings": {
+          "show_payment_icons": true,
+          "color_footer_bg": "#260101",
+          "color_footer_text": "#faf5f0",
+          "show_locale_selector": false,
+          "show_currency_selector": true
+        }
+      },
+      "161022327792ce1a6c": {
+        "type": "slideshow",
+        "blocks": {
+          "161022327792ce1a6c-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/red.png",
+              "alignment": "center center",
+              "slide_title": "\"It’s a damn good sauce, it even tastes good on pasta carbonara.\"",
+              "subheading": "– Daryl @instahandle",
+              "button_label": ""
+            }
+          },
+          "161022327792ce1a6c-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/red.png",
+              "alignment": "center center",
+              "slide_title": "\"It feels like I’m sitting on a boat on a river in Bangkok. It’s a little tangy, savory, and spicy.\"",
+              "subheading": "– Bryanna @instahandle",
+              "button_label": ""
+            }
+          },
+          "13a371d3-e31a-4b42-be6c-2b28fed9f094": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/red.png",
+              "alignment": "center center",
+              "slide_title": "\"I could eat this every day.\"",
+              "subheading": "– Emmy @instahandle",
+              "button_label": ""
+            }
+          },
+          "4bc2fbae-8c54-41ac-ba31-795e37576145": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/red.png",
+              "alignment": "center center",
+              "slide_title": "\"Another review\"",
+              "subheading": "– Name @handle",
+              "button_label": ""
+            }
+          },
+          "c37fc88d-9ced-4fdd-b10c-36d6a210e623": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/red.png",
+              "alignment": "center center",
+              "slide_title": "\"Another review\"",
+              "subheading": "– Name @handle",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "161022327792ce1a6c-0",
+          "161022327792ce1a6c-1",
+          "13a371d3-e31a-4b42-be6c-2b28fed9f094",
+          "4bc2fbae-8c54-41ac-ba31-795e37576145",
+          "c37fc88d-9ced-4fdd-b10c-36d6a210e623"
+        ],
+        "settings": {
+          "slideshow_height": "adapt",
+          "text_size": "medium",
+          "text_alignment": "center center",
+          "show_overlay": true,
+          "autorotate": false,
+          "autorotate_speed": 5
+        }
+      },
+      "1610224123d83f53c0": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/tacos_site_f51c0fd3-29a5-4e9c-9f0d-de1401803ba1.png",
+          "layout": "right",
+          "title": "We play nice with your pantry.",
+          "text": "<p>Our sauce isn’t the type to move in and take over, demanding exotic vegetables or high-end proteins. We keep things simple and flavorful. <\/p>",
+          "button_label": "Check out our recipes",
+          "button_link": "shopify:\/\/pages\/pork-recipe"
+        }
+      },
+      "161022447168b809fd": {
+        "type": "hero",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/darkred.png",
+          "alignment": "center",
+          "hero_layout": "full_width",
+          "hero_size": "x-small",
+          "text_size": "medium",
+          "title": "From simmer to boil.",
+          "text": "",
+          "button_label": "Hear our story",
+          "button_link": "shopify:\/\/pages\/pull-up-a-chair"
+        }
+      },
+      "161022577688d4a09b": {
+        "type": "logo-bar",
+        "blocks": {
+          "161022577688d4a09b-0": {
+            "type": "logo_image",
+            "settings": {}
+          },
+          "161022577688d4a09b-1": {
+            "type": "logo_image",
+            "settings": {}
+          },
+          "161022577688d4a09b-2": {
+            "type": "logo_image",
+            "settings": {}
+          },
+          "161022577688d4a09b-3": {
+            "type": "logo_image",
+            "settings": {}
+          },
+          "9b280f67-8550-4d8d-a263-2edbe26cadf4": {
+            "type": "logo_image",
+            "settings": {}
+          },
+          "7f628476-8e85-4129-9a04-4d8ea1e2732e": {
+            "type": "logo_image",
+            "settings": {}
+          },
+          "163d077c-ba6c-434a-9550-fba428f2fb7f": {
+            "type": "logo_image",
+            "settings": {}
+          },
+          "3cf617d4-95e5-4607-9b78-862312efd4c2": {
+            "type": "logo_image",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "161022577688d4a09b-0",
+          "161022577688d4a09b-1",
+          "161022577688d4a09b-2",
+          "161022577688d4a09b-3",
+          "9b280f67-8550-4d8d-a263-2edbe26cadf4",
+          "7f628476-8e85-4129-9a04-4d8ea1e2732e",
+          "163d077c-ba6c-434a-9550-fba428f2fb7f",
+          "3cf617d4-95e5-4607-9b78-862312efd4c2"
+        ],
+        "settings": {
+          "title": "Feast your eyes. Follow @getnade on Instagram."
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "show_quantity_selector": true,
+          "show_vendor": false,
+          "enable_payment_button": true,
+          "show_share_buttons": true,
+          "media_size": "medium",
+          "enable_image_zoom": false,
+          "enable_video_looping": false
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "You may also like",
+          "show_vendor": false
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "grid",
+          "blog_show_author": false,
+          "blog_show_date": false
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_author": false,
+          "blog_show_date": false,
+          "show_share_buttons": true
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "layout": "grid",
+          "grid": 2,
+          "rows": 2,
+          "show_collection_image": true,
+          "show_vendor": false,
+          "sort_enable": false,
+          "tags_enable": false
+        }
+      },
+      "1610238258b8af14fb": {
+        "type": "hero",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/hero2_0ec9f3bf-082e-44c6-9338-3fffa88adc11.png",
+          "alignment": "center",
+          "hero_layout": "full_width",
+          "hero_size": "medium",
+          "text_size": "medium",
+          "title": "",
+          "text": "<p>   <\/p>",
+          "button_label": "Shop 'Nade",
+          "button_link": "shopify:\/\/collections"
+        }
+      },
+      "161094378260f2955f": {
+        "type": "featured-blog",
+        "settings": {
+          "title": "Check out our recipes",
+          "blog": "news",
+          "post_limit": 3,
+          "blog_show_author": false,
+          "blog_show_date": false,
+          "show_view_all": false
+        }
+      }
+    },
+    "content_for_index": [
+      "1610238258b8af14fb",
+      "hero-2",
+      "feature-row",
+      "feature-columns",
+      "161022327792ce1a6c",
+      "1610224123d83f53c0",
+      "161094378260f2955f",
+      "161022447168b809fd",
+      "161022577688d4a09b"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {}
+        },
+        "hero-1": {
+          "type": "hero",
+          "settings": {
+            "hero_size": "large",
+            "text_size": "large"
+          }
+        },
+        "feature-row": {
+          "type": "feature-row",
+          "settings": {}
+        },
+        "feature-columns": {
+          "type": "feature-columns",
+          "blocks": {
+            "feature-columns-0": {
+              "type": "text_block",
+              "settings": {}
+            },
+            "feature-columns-1": {
+              "type": "text_block",
+              "settings": {}
+            },
+            "feature-columns-2": {
+              "type": "text_block",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "feature-columns-0",
+            "feature-columns-1",
+            "feature-columns-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "collection": {
+          "type": "collection",
+          "settings": {
+            "grid": 4
+          }
+        },
+        "hero-2": {
+          "type": "hero",
+          "settings": {
+            "text_size": "large"
+          }
+        },
+        "quotes": {
+          "type": "quotes",
+          "blocks": {
+            "quotes-0": {
+              "type": "quote",
+              "settings": {}
+            },
+            "quotes-1": {
+              "type": "quote",
+              "settings": {}
+            },
+            "quotes-2": {
+              "type": "quote",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "quotes-0",
+            "quotes-1",
+            "quotes-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "image-bar": {
+          "type": "image-bar",
+          "blocks": {
+            "image-bar-0": {
+              "type": "image",
+              "settings": {}
+            },
+            "image-bar-1": {
+              "type": "image",
+              "settings": {}
+            },
+            "image-bar-2": {
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "image-bar-0",
+            "image-bar-1",
+            "image-bar-2"
+          ],
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "link_list",
+              "settings": {}
+            },
+            "footer-1": {
+              "type": "newsletter",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1"
+          ],
+          "settings": {
+            "show_payment_icons": true
+          }
+        }
+      },
+      "content_for_index": [
+        "hero-1",
+        "feature-row",
+        "feature-columns",
+        "collection",
+        "hero-2",
+        "quotes",
+        "image-bar"
+      ]
+    },
+    "Light": {
+      "color_text": "#162950",
+      "color_body_text": "#6d6d6d",
+      "color_sale_text": "#DA2F0C",
+      "color_borders": "#e4e4e4",
+      "color_button": "#DA2F0C",
+      "color_button_text": "#ffffff",
+      "color_small_button_text_border": "#162950",
+      "color_text_field": "#ffffff",
+      "color_text_field_text": "#162950",
+      "color_text_field_border": "#909090",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "#3d3d3d",
+      "image_overlay_opacity": 40,
+      "color_body_bg": "#f8f8f8",
+      "type_header_font": "muli_n6",
+      "type_header_base_size": 26,
+      "type_base_font": "muli_n4",
+      "type_base_size": 18,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "small",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#e8f3f6",
+      "checkout_heading_font": "Roboto",
+      "checkout_body_font": "Source Sans Pro",
+      "checkout_accent_color": "#1990c6",
+      "checkout_button_color": "#23314e",
+      "checkout_error_color": "#ff6d6d",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "align_logo": "left",
+            "logo": "",
+            "logo_max_width": 135,
+            "main_linklist": "main-menu",
+            "message": true,
+            "color_bg": "#162950",
+            "color_text": "#ffffff"
+          }
+        },
+        "hero": {
+          "type": "hero",
+          "settings": {
+            "alignment": "center",
+            "hero_size": "x-large",
+            "text_size": "large"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center center"
+              }
+            },
+            "1492095993817": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center"
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "1492095993817"
+          ],
+          "settings": {
+            "slideshow_height": "medium",
+            "text_size": "medium",
+            "autorotate": false,
+            "autorotate_speed": 5
+          }
+        },
+        "featured-collections": {
+          "type": "collection",
+          "settings": {
+            "grid": 3,
+            "rows": 1,
+            "show_vendor": true,
+            "show_view_all": true
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_vendor": false,
+            "show_share_buttons": true,
+            "media_size": "medium",
+            "enable_image_zoom": true,
+            "enable_video_looping": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "layout": "grid",
+            "grid": 2,
+            "rows": 2,
+            "show_collection_image": true,
+            "show_vendor": false,
+            "sort_enable": true,
+            "tags_enable": true
+          }
+        },
+        "1492033809691": {
+          "type": "map",
+          "settings": {}
+        },
+        "1492033877875": {
+          "type": "quotes",
+          "blocks": {
+            "1492033877875-0": {
+              "type": "quote",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1492033877875-0"
+          ],
+          "settings": {}
+        },
+        "1492033924902": {
+          "type": "custom-content",
+          "blocks": {
+            "1492033924902-0": {
+              "type": "text",
+              "settings": {
+                "width": "100%",
+                "alignment": "center",
+                "align_text": "center"
+              }
+            }
+          },
+          "block_order": [
+            "1492033924902-0"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "1492096252560": {
+          "type": "collection-list",
+          "blocks": {
+            "1492096252560-0": {
+              "type": "featured_collection",
+              "settings": {}
+            },
+            "1492096252560-1": {
+              "type": "featured_collection",
+              "settings": {}
+            },
+            "1492096252560-2": {
+              "type": "featured_collection",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1492096252560-0",
+            "1492096252560-1",
+            "1492096252560-2"
+          ],
+          "settings": {
+            "grid": 3
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "layout": "grid",
+            "blog_show_author": true,
+            "blog_show_date": false
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_author": true,
+            "blog_show_date": true,
+            "show_share_buttons": true
+          }
+        },
+        "cart-template": {
+          "type": "cart-template",
+          "settings": {
+            "cart_notes_enable": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "link_list": {
+              "type": "link_list",
+              "settings": {}
+            },
+            "text": {
+              "type": "text",
+              "settings": {}
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "link_list",
+            "text",
+            "newsletter"
+          ],
+          "settings": {
+            "color_footer_bg": "#f8f8f8",
+            "color_footer_text": "#6d6d6d"
+          }
+        }
+      },
+      "content_for_index": [
+        "hero",
+        "featured-collections",
+        "slideshow",
+        "1492033924902",
+        "1492096252560",
+        "1492033877875",
+        "1492033809691"
+      ]
+    }
+  }
+}
